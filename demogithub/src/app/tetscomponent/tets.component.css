@@ -1,7 +1,11 @@
 h1{
     text-align: left;
+    color: aqua;
     font-size: 20;
 }
 td{
-font-size: 20;
+font-size: 20;}
+
+table{
+    tab-size: 5em;
 }
